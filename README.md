@@ -18,3 +18,4 @@ TailwindCSS simplifies responsive design, making the app visually appealing acro
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/cdac1d93-ee3d-4db0-81c2-d60f01ec9422)
